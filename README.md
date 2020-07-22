@@ -21,10 +21,12 @@ Anything! I'd love to chat about almost anything and I like to make friends.
 
 ## 📫 How to reach me:
 
-Email me at [hello@anthonykung.com](mailto:hello@anthonykung.com) (I'll setup a shorter email some day 😅)
+Email me at [hi@anth.dev](mailto:hi@anth.dev)
 
 Call me at:
+
 US Toll Free: [+1 (844) 424-5442 Ex 700](tel:+18444245442,700)
+
 International: [+1 (541) 930-7600 Ex 700](tel:+15419307600,700)
 
 Go on to my website using one of the following links:
@@ -38,12 +40,15 @@ Go on to my website using one of the following links:
 
 They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
+Go on Trove and find Anthonykung or join Monster Buster Club MBC
+
 ## 😄 Pronouns:
 
 He/Him/His
 
 ## ⚡ Fun fact:
 
+- I was borned in Taiwan but raised in 4 different countries and have never stayed for more than 6 months in my home country
 - I'm a teenager that has been making everyone to believe I'm 20+
 - I watch cartoons, my backgrounds & blankets are Ben 10
 - I'm almost NREMT licensed medic, the pandemic has gotten in the way of my rotations
