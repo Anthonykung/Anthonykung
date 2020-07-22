@@ -7,6 +7,10 @@ I currently operate 7 server networks and over 30 domains.
 ## 📢 Shoutout
  #BlackLivesMatter
  
+ I'm taching coding at [KidSpirit Virtual & In-Person Summer Camp @ Oregon State University](https://kidspirit.oregonstate.edu)
+ 
+ Proud Beaver from [Oregon State University](http://people.oregonstate.edu/~kungc/)
+ 
  C Before Python!
  
  NoSQL Rocks!
