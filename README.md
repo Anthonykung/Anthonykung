@@ -4,7 +4,12 @@ I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientis
 
 I currently operate 7 server networks and over 30 domains.
 
+## 📢 Shoutout
  #BlackLivesMatter
+ 
+ C Before Python!
+ 
+ NoSQL Rocks!
 
 ## 🔭 I’m currently working on
 
@@ -30,6 +35,8 @@ Go on to my website using one of the following links:
 - [Anth.dev](https://anth.dev)
 - [Anthonian.dev](https://anthonian.dev)
 - [Anthos.link](https://anthos.link)
+
+They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
 ## 😄 Pronouns:
 
