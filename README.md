@@ -4,6 +4,8 @@ I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientis
 
 I currently operate 7 server networks and over 30 domains.
 
+ #BlackLivesMatter
+
 ## 🔭 I’m currently working on
 
 Top secret project that you'll know in a few seconds.
@@ -17,8 +19,8 @@ Anything! I'd love to chat about almost anything and I like to make friends.
 Email me at [hello@anthonykung.com](mailto:hello@anthonykung.com) (I'll setup a shorter email some day 😅)
 
 Call me at:
-US Toll Free: [+1 (844) 424-5442 Ex 700](tel:+18444245442)
-International: [+1 (541) 930-7600 Ex 700](tel:+15419307600)
+US Toll Free: [+1 (844) 424-5442 Ex 700](tel:+18444245442,700)
+International: [+1 (541) 930-7600 Ex 700](tel:+15419307600,700)
 
 Go on to my website using one of the following links:
 - [AnthonyKung.com](https://anthonykung.com)
