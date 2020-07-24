@@ -19,6 +19,10 @@ I currently operate 7 server networks and over 30 domains.
 
 Top secret projects that you'll know in a few seconds (or not)
 
+### 👆 Looking For The "Add me as a partner so we can develop together" Button?
+
+Join the Discord and introduce yourself 😉: https://discord.gg/TmVRSx6 No ads please, it's just a place to hang out and have fun
+
 ## 💬 Ask me about
 
 Anything! I'd love to chat about almost anything and I like to make friends. So you can ask about my secrets and I may or may not tell you.
@@ -47,13 +51,15 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 ## 📫 How to reach me:
 
-1. Email me at [hi@anth.dev](mailto:hi@anth.dev)
+1. Discord server: https://discord.gg/TmVRSx6
 
-2. Call/Text me at:
+2. Email me at [hi@anth.dev](mailto:hi@anth.dev)
+
+3. Call/Text me at:
   - US Toll Free: [+1 (844) 424-5442 Ex 700](tel:+18444245442,700)
   - International: [+1 (541) 930-7600 Ex 700](tel:+15419307600,700)
 
-3. Go on to my website using one of the following links:
+4. Go on to my website using one of the following links:
   - [AnthonyKung.com](https://anthonykung.com)
   - [AnthonyKung.dev](https://anthonykung.dev)
   - [Anthony.lol](https://anthony.lol)
@@ -64,11 +70,11 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
-4. Go on Trove and find Anthonykung or join Monster Buster Club MBC
+5. Go on Trove and find Anthonykung or join Monster Buster Club MBC
 
-5. Find me on Discord if you can
+6. Find me on Discord if you can
 
-6. Find my public social media account, though don't be creepy if you choose this method
+7. Find my public social media account, though don't be creepy if you choose this method
 
 In the unlikely event that you actually found me in person, do not reach me as it will go super awkward...
 
