@@ -23,13 +23,13 @@ Top secret projects that you'll know in a few seconds (or not)
 
 Anything! I'd love to chat about almost anything and I like to make friends. So you can ask about my secrets and I may or may not tell you.
 
-### FAQ
+### ℹ FAQ
 
-#### Forums
+#### 📟 Forums
 
 I'm not really active on forums, there's really no reason for me to so I only get on it when I'm bored, if someone needs my attention they could mention me. I only have a 38k per day impact on Stack overflow, I mean sure I have a Shopify Partner's badge on Shopify Community but that's a lot of people asking for free work. Ever since I helped someone fixed their stuff cause I'm bored, I've been getting messages asking if I can fix their's, that's not cool.
 
-#### Tutorials
+#### 👨‍🏫 Tutorials
 
 Yes, I do make free tutorials and stuff too, but I've put them on hold for now. Why? Take a look at this:
 
@@ -39,7 +39,7 @@ I assume you know the reason now. That's a lot of notification for a day. Don't 
 
 But don't worry, the tutorials will be back sometime in the future when I have the resources to handle all that... Might take a few million years but they will be back eventually...
 
-#### Videos
+#### 🎥 Videos
 
 So I have made all my videos from old times private now because I sound so weird talking to a camera. They will be back as soon as I learn how to not sound funny on videos... maybe I can have an actual person to talk to like an interview that should sound more natural.
 
