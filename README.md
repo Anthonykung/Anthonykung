@@ -4,6 +4,8 @@ I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientis
 
 I currently operate 7 server networks and over 30 domains.
 
+I'm currently looking for internship, if you have an opening for ITOps engineers or DevOps engineers, I'd love to get in touch!
+
 ## 📢 Shoutout
  #BlackLivesMatter
  
