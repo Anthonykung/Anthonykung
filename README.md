@@ -9,7 +9,7 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 ## 📢 Shoutout
  #BlackLivesMatter
  
- I'm teaching coding at [KidSpirit Virtual & In-Person Summer Camp @ Oregon State University](https://kidspirit.oregonstate.edu)
+ Operation & IT at [KidSpirit Virtual & In-Person Summer Camp @ Oregon State University](https://kidspirit.oregonstate.edu)
  
  Proud Beaver from [Oregon State University](http://people.oregonstate.edu/~kungc/)
  
@@ -18,6 +18,8 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
  NoSQL Rocks!
 
 ## 🔭 I’m currently working on
+
+I've been working full time so all projects are on hold for now...
 
 Top secret projects that you'll know in a few seconds (or not)
 
@@ -83,6 +85,10 @@ In the unlikely event that you actually found me in person, do not reach me as i
 ## 😄 Pronouns:
 
 He/Him/His
+
+Me is unbiased!!!
+
+![Harvard IAT](https://dl.airtable.com/.attachmentThumbnails/31379628cbf673ab2db3beb145173f9f/5a0b4fcf)
 
 ## ⚡ Fun fact:
 
