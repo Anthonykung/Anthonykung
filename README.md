@@ -7,9 +7,11 @@ I currently operate 7 server networks and over 30 domains.
 I'm currently looking for internship, if you have an opening for ITOps engineers or DevOps engineers, I'd love to get in touch!
 
 ## 📢 Shoutout
+ @TheOneKevin is super smart! Go Kev :D
+
  #BlackLivesMatter
  
- Operation & IT at [KidSpirit Virtual & In-Person Summer Camp @ Oregon State University](https://kidspirit.oregonstate.edu)
+ Operation & IT at [KidSpirit @ Oregon State University](https://kidspirit.oregonstate.edu)
  
  Proud Beaver from [Oregon State University](http://people.oregonstate.edu/~kungc/)
  
@@ -19,9 +21,7 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 
 ## 🔭 I’m currently working on
 
-I've been working full time so all projects are on hold for now...
-
-Top secret projects that you'll know in a few seconds (or not)
+I'm kind of being flooded by the school work but I should probably work on more projects... 
 
 ### 👆 Looking For The "Add me as a partner so we can develop together" Button?
 
@@ -29,7 +29,7 @@ Join the Discord and introduce yourself 😉: https://discord.gg/TmVRSx6 No ads 
 
 ## 💬 Ask me about
 
-Anything! I'd love to chat about almost anything and I like to make friends. So you can ask about my secrets and I may or may not tell you.
+Anything! I'd love to chat about almost anything and I like to make friends. So you can ask about my secrets and I may or may not tell you 😜.
 
 ### ℹ FAQ
 
