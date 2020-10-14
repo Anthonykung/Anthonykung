@@ -7,7 +7,7 @@ I currently operate 7 server networks and over 30 domains.
 I'm currently looking for internship, if you have an opening for ITOps engineers or DevOps engineers, I'd love to get in touch!
 
 ## 📢 Shoutout
- @TheOneKevin is super smart! Go Kev :D
+ [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :D
 
  #BlackLivesMatter
  
