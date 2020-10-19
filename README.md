@@ -98,7 +98,7 @@ He/Him/His
 - I'm almost NREMT licensed medic, the pandemic has gotten in the way of my rotations
 - I behave like a kid but I don't consider myself a kid (I'm wearing the same shorts I wore when I was 10)
 - I love Ubuntu, don't yell at me
-- I love Starbucks and you can probably bride me with it 😏
+- I love Starbucks and you can probably bribe me with it 😏
 
 <!--
 **Anthonykung/Anthonykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
