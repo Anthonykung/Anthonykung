@@ -25,7 +25,7 @@ I'm kind of being flooded by the school work but I should probably work on more 
 
 ### 👆 Looking For The "Add me as a partner so we can develop together" Button?
 
-Join the Discord and introduce yourself 😉: https://discord.gg/TmVRSx6 No ads please, it's just a place to hang out and have fun
+Join the Discord and introduce yourself 😉: https://discord.gg/kUF9bFJ No ads please, it's just a place to hang out and have fun
 
 ## 💬 Ask me about
 
@@ -55,7 +55,7 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 ## 📫 How to reach me:
 
-1. Discord server: https://discord.gg/TmVRSx6
+1. Discord server: https://discord.gg/kUF9bFJ
 
 2. Email me at [hi@anth.dev](mailto:hi@anth.dev)
 
@@ -94,10 +94,11 @@ He/Him/His
 
 - I was born in Taiwan but raised in 4 different countries and have never stayed for more than 6 months in my home country
 - I'm a teenager that has been making everyone to believe I'm 20+
-- I watch cartoons, my backgrounds & blankets are Ben 10
+- I watch cartoons, my backgrounds & blankets are Ben 10, Minecraft, Boruto...
 - I'm almost NREMT licensed medic, the pandemic has gotten in the way of my rotations
 - I behave like a kid but I don't consider myself a kid (I'm wearing the same shorts I wore when I was 10)
 - I love Ubuntu, don't yell at me
+- I love Starbucks and you can probably bride me with it 😏
 
 <!--
 **Anthonykung/Anthonykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
