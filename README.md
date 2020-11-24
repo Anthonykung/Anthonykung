@@ -9,7 +9,7 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 ## 📢 Shoutout
  [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
  
- <!-- Me <3 Kevin -->
+ <!-- Me <3 boyfriend Kevin :P -->
 
  #BlackLivesMatter
  
@@ -23,7 +23,12 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 
 ## 🔭 I’m currently working on
 
-I'm kind of being flooded by the school work but I should probably work on more projects... 
+- 4 English Essays
+- 2 Math Homeworks
+- 1 Electrical Engineering Homework
+- 1 Computer Networking Homework
+- [HSC CPU](https://hsc.anth.dev)
+- Setting up LVM
 
 ### 👆 Looking For The "Add me as a partner so we can develop together" Button?
 
@@ -31,7 +36,7 @@ Join the Discord and introduce yourself 😉: https://discord.gg/kUF9bFJ No ads 
 
 ## 💬 Ask me about
 
-Anything! I'd love to chat about almost anything and I like to make friends. So you can ask about my secrets and I may or may not tell you 😜.
+Anything! I'd love to chat about almost anything and I like to make friends. So you can [ask about my secrets](https://tellonym.me/anthonykung) and I may or may not tell you 😜.
 
 ### ℹ FAQ
 
