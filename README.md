@@ -36,18 +36,19 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 | Awesome Membership                                                             | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | JATE                                                                           | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | [Carrot Theme](https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code)    | August 30, 2020   | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
-| Fascinating Contents                                                           | October 16, 2020  | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=development&color=blue)         | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Fascinating Contents                                                           | October 16, 2020  | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | [Dart Theme LaTex](https://github.com/Anthonykung/Dark-Theme-LaTex)            | October 18, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
 | [Project Disco](https://github.com/Anthonykung/WordPress-Project-Disco)        | October 18, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
 | [Cow Disguise](https://github.com/Anthonykung/Cow-Disguise)                    | October 19, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
 | [AK1917](https://github.com/Anthonykung/AK1917)                                | November 5, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
+| Magnificent Community                                                          | November 23, 2020 | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | Marvelous Core                                                                 | December 1, 2020  | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | [AUM](https://github.com/Anthonykung/Anthonian-Uptime-Monitoring)              | December 25, 2020 | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
 
 
 ### 👆 Looking For The "Add me as a partner so we can develop together" Button?
 
-Join the Discord and introduce yourself 😉: https://discord.gg/kUF9bFJ No ads please, it's just a place to hang out and have fun
+Let's chat! See below for how to reach me :P
 
 ## 💬 Ask me about
 
@@ -77,7 +78,7 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 ## 📫 How to reach me:
 
-1. Discord server: https://discord.gg/kUF9bFJ
+1. Find me on Discord
 
 2. Email me at [hi@anth.dev](mailto:hi@anth.dev)
 
@@ -102,7 +103,7 @@ They all redirects to AnthonyKung.com eventually, so you might as well just go t
 
 7. Find my public social media account, though don't be creepy if you choose this method
 
-In the unlikely event that you actually found me in person, do not reach me as it will go super awkward...
+In the unlikely event that you actually found me in person, do not reach out to me as it will go super awkward...
 
 ## 😄 Pronouns:
 
