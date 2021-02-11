@@ -26,10 +26,11 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 - [HSC CPU](https://hsc.anth.dev)
 - Setting up LVM
 
-### Recent Project Tracking
+### Recent Notable Project Tracking
 
 | Project Codename                                                               | Start Date        | Current Status                                                                                        | Maintenance Status                                                                                                           |
 | ------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [Intro to C++](https://repl.it/talk/learn/Intro-to-C/15340)                    | June 4, 2019      | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | Cool Timer ORG                                                                 | July 11, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | Stunning Project                                                               | July 19, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 | Insane Marking                                                                 | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
