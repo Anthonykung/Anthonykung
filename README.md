@@ -22,7 +22,7 @@ JS is awesome!
 ## 🔭 I’m currently working on
 
 - [HSC CPU v2](https://hsc.anth.dev)
-- Teaching JS to kids 6 ~ 10 years old at KidSpirit
+- School 😭
 
 ### Recent Notable Project Tracking
 
