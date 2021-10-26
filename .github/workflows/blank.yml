@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: AnthRepoSync
-        uses: Anthonykung/RepoSync@v1.0.0
+        uses: Anthonykung/RepoSync@v1.1.0-alpha
