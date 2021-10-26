@@ -1,0 +1,11 @@
+name: AnthRepoSync
+on: 
+  push:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: AnthRepoSync
+        uses: Anthonykung/RepoSync@v1.0.0
