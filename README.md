@@ -33,7 +33,7 @@ I'm a Graduate Research and Teaching Assistant now
 
 | Organization                                                                  | Position                                   | Team / Department                                | Date                | Location                              |
 | ----------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------- | ------------------------------------- |
-| Oregon State University STAR Lab                                              | Graduate Research Assistant                | System Technology and Application Research Lab   | Sep 2022 - Present  | Corvallis, Oregon                     |
+| [Oregon State University STAR Lab](https://github.com/OSU-STARLAB)            | Graduate Research Assistant                | System Technology and Application Research Lab   | Sep 2022 - Present  | Corvallis, Oregon                     |
 | Oregon State University School of Electrical Engineering and Computer Science | Graduate Teaching Assistant                | ECE 472/572 Computer Architecture & ENGR 202     | Sep 2022 - Present  | Corvallis, Oregon                     |
 | Intel Corporation                                                             | Software Engineering Intern                | Intel Query Processing Library Team              | Jan 2024 - Sep 2024 | Remote - Intel Hillsboro Jones Farm   |
 | ON Semiconductor (onsemi)                                                     | Digital Verification Intern                | Image Signal Processor Digital Team              | Jul 2022 - Sep 2022 | Corvallis, Oregon                     |
