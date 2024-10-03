@@ -20,13 +20,9 @@ In 2023, I founded the Orange Airsoft Club at Oregon State University with over 
 
 Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
 
-I have graduated!!!! 🎉🎉🎉
-
-And I'm back to school for a M.S. :3 better yet it's sponsored :P
+I'm PhD student now :3c
 
 I'm a Graduate Research and Teaching Assistant now
-
-I'm interning for Intel now (I might appear at Intel Hillsboro Jones Farm campus 👀)
 
 ## 🔭 I’m currently working on
 
@@ -35,79 +31,22 @@ I'm interning for Intel now (I might appear at Intel Hillsboro Jones Farm campus
 
 ## 💼 Jobs
 
-### Intel Corporation
-
-| Job        | Intel Corporation                   |
-| ---------- | ----------------------------------- |
-| Position   | Software Engineering Intern         |
-| Team       | Intel Query Processing Library Team |
-| Date       | Jan 2024 - Present                  |
-| Location   | Remote - Intel Hillsboro Jones Farm |
-
-### Oregon State University STAR Lab
-
-| Job        | Oregon State University STAR Lab               |
-| ---------- | ---------------------------------------------- |
-| Position   | Graduate Research Assistant                    |
-| Team       | System Technology and Application Research Lab |
-| Date       | Sep 2022 - Present                             |
-| Location   | Corvallis, Oregon                              |
-
-### Oregon State University School of Electrical Engineering and Computer Science
-
-| Job        | Oregon State University School of Electrical Engineering and Computer Science |
-| ---------- | ----------------------------------------------------------------------------- |
-| Position   | Graduate Teaching Assistant                                                   |
-| Team       | ECE 472/572 Computer Architecture & ENGR 202 Electronics II                   |
-| Date       | Sep 2022 - Present                                                            |
-| Location   | Corvallis, Oregon                                                             |
-
-### ON Semiconductor (onsemi)
-
-| Job        | ON Semiconductor (onsemi)           |
-| ---------- | ----------------------------------- |
-| Position   | Digital Verification Intern         |
-| Team       | Image Signal Processor Digital Team |
-| Date       | Jul 2022 - Sep 2024                 |
-| Location   | Corvallis, Oregon                   |
-
-### Oregon State University STAR Lab
-
-| Job        | Oregon State University STAR Lab               |
-| ---------- | ---------------------------------------------- |
-| Position   | Undergrad Research Assistant                   |
-| Team       | System Technology and Application Research Lab |
-| Date       | Nov 2021 - Jun 2022                            |
-| Location   | Corvallis, Oregon                              |
-
-### Oregon State University KidSpirit
-
-| Job        | Oregon State University KidSpirit  |
-| ---------- | ---------------------------------- |
-| Position   | Office and IT Manager              |
-| Team       | KidSpirit Leadership Team          |
-| Date       | Jun 2020 - Jun 2022                |
-| Location   | Corvallis, Oregon                  |
+| Organization                                                                  | Position                                   | Team / Department                                | Date                | Location                              |
+| ----------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------- | ------------------------------------- |
+| Oregon State University STAR Lab                                              | Graduate Research Assistant                | System Technology and Application Research Lab   | Sep 2022 - Present  | Corvallis, Oregon                     |
+| Oregon State University School of Electrical Engineering and Computer Science | Graduate Teaching Assistant                | ECE 472/572 Computer Architecture & ENGR 202     | Sep 2022 - Present  | Corvallis, Oregon                     |
+| Intel Corporation                                                             | Software Engineering Intern                | Intel Query Processing Library Team              | Jan 2024 - Sep 2024 | Remote - Intel Hillsboro Jones Farm   |
+| ON Semiconductor (onsemi)                                                     | Digital Verification Intern                | Image Signal Processor Digital Team              | Jul 2022 - Sep 2022 | Corvallis, Oregon                     |
+| Oregon State University STAR Lab                                              | Undergrad Research Assistant               | System Technology and Application Research Lab   | Nov 2021 - Jun 2022 | Corvallis, Oregon                     |
+| Oregon State University KidSpirit                                             | Office and IT Manager                      | KidSpirit Leadership Team                        | Jun 2020 - Jun 2022 | Corvallis, Oregon                     |
 
 ## 🎓 Education
 
-### Master's of Science
-
-| Education  | Master's of Science                 |
-| ---------- | ----------------------------------- |
-| Major      | Electrical and Computer Engineering |
-| Focus Area | AI Accelerator Hardware             |
-| School     | Oregon State University             |
-| Graduation | June 2024                           |
-
-### Bachelor of Science
-
-| Education  | Bachelor of Science                 |
-| ---------- | ----------------------------------- |
-| Major      | Electrical and Computer Engineering |
-| Minor      | Computer Science                    |
-| School     | Oregon State University             |
-| Graduation | June 2022                           |
+| Degree                     | Major / Minor                             | Focus Area / Additional Info       | School                     | Graduation         | Location          |
+| -------------------------- | ----------------------------------------- | ---------------------------------- | -------------------------- | ------------------ | ----------------- |
+| Doctor of Philosophy (PhD) | Electrical and Computer Engineering       | AI Accelerator Hardware            | Oregon State University    | June 2027          | Corvallis, Oregon |
+| Master's of Science (M.S.) | Electrical and Computer Engineering       | AI Accelerator Hardware            | Oregon State University    | June 2024          | Corvallis, Oregon |
+| Bachelor of Science (B.S.) | Electrical and Computer Engineering       | Minor: Computer Science            | Oregon State University    | June 2022          | Corvallis, Oregon |
 
 ## ℹ FAQ
 
