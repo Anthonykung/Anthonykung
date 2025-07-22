@@ -2,7 +2,7 @@
 
 I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientist. I started coding at the age of 12 and have been working as a professional developer since the age of 13. From 2014 to 2020, I have worked on over 300 projects as a freelance developer including some multimillion companies, that's an average of 1 project per week.
 
-I can be found on LinkedIn at [https://www.linkedin.com/in/anthonykung/](https://www.linkedin.com/in/anthonykung/), feel free to chat with me! I love making friends :3c
+I can be found on LinkedIn at [linkedin.com/in/anthonykung](https://www.linkedin.com/in/anthonykung/), feel free to chat with me! I love making friends :3c
 
 In 2020, I helped developed the current web UI and a computer science curriculum for KidSpirit, the Oregon State University Youth Program, [check it out here](https://kidspirit.oregonstate.edu/).
 
@@ -12,11 +12,15 @@ In 2022, as part of senior capstone project, our team worked with Collins Aerosp
 
 In 2023, I founded the Orange Airsoft Club at Oregon State University with over 25 active members of mostly engineering students, powered by the most innovative online system created with Next.js 14, [check it out here](https://orangeairsoft.com).
 
+In 2024, I worked as a Software Engineering Intern at Intel Corporation on the Intel Query Processing Library Team, where I contributed to the development of the open source library that interface with In-Memory Analytics Accelerators found on 4th Gen and later Intel Xeon Scalable Processors.
+
+In 2025, I helped develop the course CS/ECE/AI 499/599 Special Topics: HLS For AI Accelerators at Oregon State University, where I taught students how to use High-Level Synthesis (HLS) to design hardware accelerators for AI applications.
+
 ## 📢 Shoutout
 
- [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
- 
- <!-- Me <3 ex-boyfriend Kevin :P -->
+[@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
+
+<!-- Me <3 ex-boyfriend Kevin :P -->
 
 Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
 
@@ -24,29 +28,38 @@ I'm PhD student now :3c
 
 I'm a Graduate Research and Teaching Assistant now
 
-## 🔭 I’m currently working on
+## 🔭 I'm currently working on
 
-- AI Accelerator Research (hardware stuff with transformer)
-- [Intel Query Processing Library](https://github.com/intel/qpl)
+- **AI Accelerator Research:**
+  Building faster, more efficient hardware for transformer-based AI models (ASIC stuff, making the magic happen for ML in silicon!).
+
+- **Course Development at Oregon State University:**
+  Contributing and TAing CS/ECE/AI 499/599 Special Topics: HLS For AI Accelerators, giving students the tools to design AI hardware with high-level synthesis.
+
+- **OSU STAR Lab Commercialization:**
+  The person behind STAR Lab's commercialization efforts, turning cutting-edge AI research into real-world applications, so all dat cool science stuff actually helps people.
+
+- **ASCA Initiative:**
+  Createdd ASCA to help OSU clubs work together and use tech to automate boring club tasks and create more funding opportunities for everyone.
 
 ## 💼 Jobs
 
-| Organization                                                                  | Position                                   | Team / Department                                | Date                | Location                              |
-| ----------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------- | ------------------------------------- |
-| [Oregon State University STAR Lab](https://github.com/OSU-STARLAB)            | Graduate Research Assistant                | System Technology and Application Research Lab   | Sep 2022 - Present  | Corvallis, Oregon                     |
-| Oregon State University School of Electrical Engineering and Computer Science | Graduate Teaching Assistant                | ECE 472/572 Computer Architecture & ENGR 202     | Sep 2022 - Present  | Corvallis, Oregon                     |
-| Intel Corporation                                                             | Software Engineering Intern                | Intel Query Processing Library Team              | Jan 2024 - Sep 2024 | Remote - Intel Hillsboro Jones Farm   |
-| ON Semiconductor (onsemi)                                                     | Digital Verification Intern                | Image Signal Processor Digital Team              | Jul 2022 - Sep 2022 | Corvallis, Oregon                     |
-| Oregon State University STAR Lab                                              | Undergrad Research Assistant               | System Technology and Application Research Lab   | Nov 2021 - Jun 2022 | Corvallis, Oregon                     |
-| Oregon State University KidSpirit                                             | Office and IT Manager                      | KidSpirit Leadership Team                        | Jun 2020 - Jun 2022 | Corvallis, Oregon                     |
+| Organization                                                                  | Position                     | Team / Department                                                                                           | Date                | Location                            |
+| ----------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------- |
+| [Oregon State University STAR Lab](https://github.com/OSU-STARLAB)            | Graduate Research Assistant  | System Technology and Application Research Lab                                                              | Sep 2022 - Present  | Corvallis, Oregon                   |
+| Oregon State University School of Electrical Engineering and Computer Science | Graduate Teaching Assistant  | CS/ECE/AI 499/599 Special Topics: HLS For AI Accelerators & ECE/CS 472/572 Computer Architecture & ENGR 202 | Sep 2022 - Present  | Corvallis, Oregon                   |
+| Intel Corporation                                                             | Software Engineering Intern  | Intel Query Processing Library Team                                                                         | Jan 2024 - Sep 2024 | Remote - Intel Hillsboro Jones Farm |
+| ON Semiconductor (onsemi)                                                     | Digital Verification Intern  | Image Signal Processor Digital Team                                                                         | Jul 2022 - Sep 2022 | Corvallis, Oregon                   |
+| Oregon State University STAR Lab                                              | Undergrad Research Assistant | System Technology and Application Research Lab                                                              | Nov 2021 - Jun 2022 | Corvallis, Oregon                   |
+| Oregon State University KidSpirit                                             | Office and IT Manager        | KidSpirit Leadership Team                                                                                   | Jun 2020 - Jun 2022 | Corvallis, Oregon                   |
 
 ## 🎓 Education
 
-| Degree                     | Major / Minor                             | Focus Area / Additional Info       | School                     | Graduation         | Location          |
-| -------------------------- | ----------------------------------------- | ---------------------------------- | -------------------------- | ------------------ | ----------------- |
-| Doctor of Philosophy (PhD) | Electrical and Computer Engineering       | AI Accelerator Hardware            | Oregon State University    | June 2027          | Corvallis, Oregon |
-| Master's of Science (M.S.) | Electrical and Computer Engineering       | AI Accelerator Hardware            | Oregon State University    | June 2024          | Corvallis, Oregon |
-| Bachelor of Science (B.S.) | Electrical and Computer Engineering       | Minor: Computer Science            | Oregon State University    | June 2022          | Corvallis, Oregon |
+| Degree                     | Major / Minor                       | Focus Area / Additional Info | School                  | Graduation | Location          |
+| -------------------------- | ----------------------------------- | ---------------------------- | ----------------------- | ---------- | ----------------- |
+| Doctor of Philosophy (PhD) | Electrical and Computer Engineering | AI Accelerator Hardware      | Oregon State University | June 2027  | Corvallis, Oregon |
+| Master's of Science (M.S.) | Electrical and Computer Engineering | AI Accelerator Hardware      | Oregon State University | June 2024  | Corvallis, Oregon |
+| Bachelor of Science (B.S.) | Electrical and Computer Engineering | Minor: Computer Science      | Oregon State University | June 2022  | Corvallis, Oregon |
 
 ## ℹ FAQ
 
@@ -90,7 +103,7 @@ Anything! I'd love to chat about almost anything and I like to make friends. So 
 They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
 4. Go on Trove and find Anthonykung or join Monster Buster Club MBC
-5. Join me on Minecraft [mcje.anthonian.host](https://mcje.anthonian.host)
+5. Join me on Minecraft VR Compatible Java 1.19.2 [mcvr.anth.dev](https://mcvr.anth.dev)
 6. Find my public social media account, though don't be creepy if you choose this method
 
 In the unlikely event that you actually found me in person, do not reach out to me as it will go super awkward...
@@ -114,10 +127,10 @@ He/They
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
